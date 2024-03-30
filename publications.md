@@ -5,7 +5,7 @@ title: Publications/Blogs
 
 ## Blogs
 1. https://sambanova.ai/blog/accurate-models-at-blazing-speed
-2. https://sambanova.ai/blog/samba-coe-v01-composition-of-experts
+2. Jain, Swayambhoo, et al. “Samba-Coe v0.1 - Unlocking the Power of Routing to Build a Composition of Experts.” SambaNova Systems, SambaNova Systems, 5 Mar. 2024, sambanova.ai/blog/samba-coe-v01-composition-of-experts. 
 3. https://sambanova.ai/blog/training-long-sequence-size-models-on-sambanova
 4. https://sambanova.ai/blog/introducing-bloomchat-176b-the-multilingual-chat-based-llm
 
