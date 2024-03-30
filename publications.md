@@ -1,7 +1,14 @@
 ---
 layout: page
-title: Publications
+title: Publications/Blogs
 ---
+
+## Blogs
+1. https://sambanova.ai/blog/accurate-models-at-blazing-speed
+2. https://sambanova.ai/blog/samba-coe-v01-composition-of-experts
+3. https://sambanova.ai/blog/training-long-sequence-size-models-on-sambanova
+4. https://sambanova.ai/blog/introducing-bloomchat-176b-the-multilingual-chat-based-llm
+
 
 ## Thesis
 1. R Raju, Towards Efficient Inference and Improved Training Efficiency of Deep Neural Networks, The University of Wisconsin-Madison, August 2022. [[pdf]](https://www.proquest.com/openview/04ff1ca66a6fa51d6d345263d1ae21f6/1?pq-origsite=gscholar&cbl=18750&diss=y)
